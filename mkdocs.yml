@@ -1,0 +1,6 @@
+site_name: llikdowk's stuff
+site_url: https://llikdowk.github.io
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
