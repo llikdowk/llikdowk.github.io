@@ -3,4 +3,16 @@ site_url: https://llikdowk.github.io
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme:
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+  name: material 
+  palette: 
+    scheme: slate
+markdown_extensions:
+  - admonition
+plugins:
+  - search:
+      lang: en

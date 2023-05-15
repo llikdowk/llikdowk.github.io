@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Some Unreal stuff
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+As I develop new features I tend to forget the tricky bits of the ones I've already developed so I decided to build this page so:
 
-## Commands
+1. I stop wasting my time
+1. You can learn too if for some reason you found this in your journey
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I hope it's going to be as useful to you as it's going to be for me.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! be_kind_please
+    This page is going to be quite rough for a while so bear with me until I figure things out on the go.
