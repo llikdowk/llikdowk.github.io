@@ -4,11 +4,11 @@ nav:
   - Home: index.md
   - About: about.md
 theme:
+  name: mkdocs 
   features:
     - search.suggest
     - search.highlight
     - search.share
-  name: material 
   palette: 
     scheme: slate
 markdown_extensions:
