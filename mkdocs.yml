@@ -49,5 +49,18 @@ theme:
     - toc.follow
 
   palette: 
-    # dark mode
-    scheme: slate
+    # Palette toggle for dark mode
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for light mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
