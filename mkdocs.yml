@@ -1,18 +1,53 @@
-site_name: llikdowk's stuff
+site_name: llikdowk gamedev corner
 site_url: https://llikdowk.github.io
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: 
+    - index.md
+  - Code: 
+    - code/index.md
+    - Render UMG in texture: code/render-umg-in-texture.md
+  - Design: 
+    - design/index.md
+    - A message for The Stone King: design/a-message-for-the-stone-king.md
+  - Tech Art:
+    - techart/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  #table of content
+  - toc:
+      permalink: true
+      baselevel: 5
+
+plugins:
+  - search:
+      lang: en
+
 theme:
   name: material 
+  logo: img/seal_icon.png 
+  favicon: img/favicon.ico
+  custom_dir: docs/overrides
   features:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+
   palette: 
+    # dark mode
     scheme: slate
-markdown_extensions:
-  - admonition
-plugins:
-  - search:
-      lang: en

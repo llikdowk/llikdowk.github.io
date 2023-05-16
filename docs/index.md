@@ -1,4 +1,4 @@
-# Some Unreal stuff
+# Welcome!
 
 As I develop new features I tend to forget the tricky bits of the ones I've already developed so I decided to build this page so:
 
@@ -7,5 +7,7 @@ As I develop new features I tend to forget the tricky bits of the ones I've alre
 
 I hope it's going to be as useful to you as it's going to be for me.
 
-!!! be_kind_please
-    This page is going to be quite rough for a while so bear with me until I figure things out on the go.
+!!! Note "I'm learning on the go"
+    This page is going to be quite rough for a while so bear with me until I figure things out.
+
+    ![Wallave](img/wallace.gif)
