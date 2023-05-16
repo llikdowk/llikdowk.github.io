@@ -2,7 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://llikdowk.github.io/</loc>
-         <lastmod>2023-05-15</lastmod>
+         <lastmod>2023-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://llikdowk.github.io/code/</loc>
+         <lastmod>2023-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://llikdowk.github.io/code/render-umg-in-texture/</loc>
+         <lastmod>2023-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://llikdowk.github.io/design/</loc>
+         <lastmod>2023-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://llikdowk.github.io/design/a-message-for-the-stone-king/</loc>
+         <lastmod>2023-05-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://llikdowk.github.io/techart/</loc>
+         <lastmod>2023-05-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
