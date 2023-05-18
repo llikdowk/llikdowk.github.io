@@ -3,14 +3,16 @@ site_url: https://llikdowk.github.io
 nav:
   - Home: 
     - index.md
-  - Code: 
-    - code/index.md
-    - Render UMG in texture: code/render-umg-in-texture.md
-  - Design: 
-    - design/index.md
-    - A message for The Stone King: design/a-message-for-the-stone-king.md
+  #- Code: 
+  #  - code/index.md
+  #  - Render UMG in texture: code/render-umg-in-texture.md
+  #- Design: 
+  #  - design/index.md
+  #  - A message for The Stone King: design/a-message-for-the-stone-king.md
   - Tech Art:
     - techart/index.md
+    - Cool Commands: techart/cool-commands.md
+    - Shadows: techart/shadows.md
 
 markdown_extensions:
   - admonition

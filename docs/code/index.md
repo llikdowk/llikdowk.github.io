@@ -1,2 +1,2 @@
-#code
-code stuff
+# CODE
+Mostly C++ magic
