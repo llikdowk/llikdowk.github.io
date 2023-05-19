@@ -3,8 +3,10 @@ site_url: https://llikdowk.github.io
 nav:
   - Home: 
     - index.md
-  #- Code: 
-  #  - code/index.md
+  - Code: 
+    - code/index.md
+    - CommonUI: code/common-ui.md
+    - UProperty Attributes: code/uproperty-attributes.md
   #  - Render UMG in texture: code/render-umg-in-texture.md
   #- Design: 
   #  - design/index.md
